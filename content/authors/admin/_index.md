@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-Intereses:
+Interests:
   - Leer
   - Cine hindú
   - Viajar
