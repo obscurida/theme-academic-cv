@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Angihe
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Barón Peinado
+last_name: Angihe Patricia
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Chica sexy
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Profesional en Seguridad, Salud Ocupacional y Medioambiente, con experiencia en monitoreos, inspecciones y gestión documental bajo normativas ISO. Destaco por mi compromiso con la prevención de riesgos, la mejora continua y la comunicación efectiva. Busco aportar en entornos laborales seguros, responsables y orientados al bienestar y cumplimiento normativo. 
