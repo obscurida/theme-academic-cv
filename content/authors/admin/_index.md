@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Angihe
+title: Angihe Patricia Barón Peinado
 
 # Name pronunciation (optional)
 name_pronunciation: 
