@@ -54,7 +54,7 @@ Intereses:
   - Escuchar musica relajada
 
 education:
-  - area: CFGS Prevención de Riesgos Profesionales
+  - area: CFGS Prevención de Riesgos
     institution: CEAC
     date_start: 2016-01-01
     date_end: 2020-12-31
