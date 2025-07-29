@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Angihe Patricia Barón Peinado
+title: Angihe Patricia Barón Pintado
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Barón Peinado
+first_name: Barón Pintado
 last_name: Angihe Patricia
 
 # Status emoji
