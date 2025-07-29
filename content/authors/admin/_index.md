@@ -50,6 +50,8 @@ Intereses:
   - Leer
   - Cine hindú
   - Viajar
+  - Hacer deporte
+  - Escuchar musica relajada
 
 education:
   - area: CFGS Prevención de Riesgos Profesionales
@@ -164,12 +166,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Castellano
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Catalán
+    percent: 50
+  - name: Inglés
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
